@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gallery/static/css/main.2a51c473.css",
+    "main.js": "/gallery/static/js/main.9378c7f5.js",
+    "static/media/downArrow5.jpg": "/gallery/static/media/downArrow5.575bd266f4cf365478b4.jpg",
+    "index.html": "/gallery/index.html",
+    "main.2a51c473.css.map": "/gallery/static/css/main.2a51c473.css.map",
+    "main.9378c7f5.js.map": "/gallery/static/js/main.9378c7f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a51c473.css",
+    "static/js/main.9378c7f5.js"
+  ]
+}
